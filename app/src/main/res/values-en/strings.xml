@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quel_nombre">what number ?</string>
+    <string name="calculer">calculate</string>
+    <string name="racine_carr_e">square root</string>
+</resources>
